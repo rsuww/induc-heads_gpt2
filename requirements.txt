@@ -1,0 +1,6 @@
+torch>=2.0
+transformer_lens>=1.14
+circuitsvis>=1.43
+plotly>=5.0
+einops>=0.7
+jupyter
